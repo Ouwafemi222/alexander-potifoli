@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "title": "Webinar Slide Design",
+    "description": "Engaging webinar deck with clear visual hierarchy.",
+    "category": "slides",
+    "image": "/assestt/webinar slides/3f95bb4d6cb83eb645339f6ba3611aaf.jpg",
+    "service": "Slide Webinar Design"
+  },
+  {
+    "id": "2",
+    "title": "PowerPoint Presentation",
+    "description": "Professional slides for pitches and meetings.",
+    "category": "slides",
+    "image": "/assestt/powerpoint design/7124aed25e00a58a33faa1fb03d7ca5d.jpg",
+    "service": "PowerPoint Design"
+  },
+  {
+    "id": "9",
+    "title": "Presentation Design",
+    "description": "High-impact slides for brands, speakers, and teams.",
+    "category": "slides",
+    "image": "/assestt/presentation/1000_F_709570006_3Fj5F2JB7y0jPSYebqRwzhjU8M2545OE.jpg",
+    "service": "Presentation Design"
+  },
+  {
+    "id": "3",
+    "title": "Ebook Cover Design",
+    "description": "Polished ebook cover that captures readers at a glance.",
+    "category": "books",
+    "image": "/assestt/book cover/20fdf294e2305e38cc14487485bb73e0 (1).jpg",
+    "service": "Ebook Design"
+  },
+  {
+    "id": "4",
+    "title": "Novel Cover Design",
+    "description": "Captivating fiction cover built for shelf and digital.",
+    "category": "books",
+    "image": "/assestt/novel book/hgf.png",
+    "service": "Novel Design"
+  },
+  {
+    "id": "5",
+    "title": "Product Label Design",
+    "description": "Shelf-ready packaging with bold brand presence.",
+    "category": "labels",
+    "image": "/assestt/product label/b5a62df240e6dd9bf0af2a01af65b7ed.jpg",
+    "service": "Product Label Design"
+  },
+  {
+    "id": "6",
+    "title": "Juice Label Design",
+    "description": "Fresh beverage label with vibrant flavor cues.",
+    "category": "labels",
+    "image": "/assestt/juice label/9bd64491d9ecbc41376de49326646a21.jpg",
+    "service": "Juice Label Design"
+  },
+  {
+    "id": "7",
+    "title": "Mural Design",
+    "description": "Bold wall art that transforms any space.",
+    "category": "art",
+    "image": "/assestt/mural design/886d587e38aefb81873fb2095bef3cf2.jpg",
+    "service": "Mural Design"
+  },
+  {
+    "id": "8",
+    "title": "Stained Glass Design",
+    "description": "Artistic stained glass concept with rich color and light.",
+    "category": "art",
+    "image": "/assestt/stained glass/77835e21132796d61411dd6f76904a17.jpg",
+    "service": "Stained Glass Design"
+  },
+  {
+    "id": "10",
+    "title": "Magazine Design",
+    "description": "Editorial spreads and covers with clean, modern layout.",
+    "category": "books",
+    "image": "/assestt/magazine/Magazine-Mockups-with-Editable-Customiza-Graphics-83187062-1-580x387.jpg",
+    "service": "Magazine Design"
+  },
+  {
+    "id": "11",
+    "title": "Canva Template Design",
+    "description": "On-brand Canva kits for fast, consistent marketing graphics.",
+    "category": "slides",
+    "image": "/assestt/canva template design/19ac9124df87c1b508031cf918f60160.jpg",
+    "service": "Canva Template Design"
+  },
+  {
+    "id": "12",
+    "title": "Brand Identity Design",
+    "description": "Logo, color system, and brand kit for a cohesive business look.",
+    "category": "art",
+    "image": "/assestt/brand identity/ac38db498f2c5bc74ab08ed406719424.jpg",
+    "service": "Brand Identity Design"
+  },
+  {
+    "id": "13",
+    "title": "Social Media Design",
+    "description": "Scroll-stopping posts and campaign graphics for major platforms.",
+    "category": "slides",
+    "image": "/assestt/social media design/32eca24b403532e521a6da4f9066f520.jpg",
+    "service": "Social Media Design"
+  }
+]

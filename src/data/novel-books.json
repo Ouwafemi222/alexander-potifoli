@@ -1,0 +1,47 @@
+[
+  {
+    "id": "novel-1",
+    "image": "/assestt/novel book/bgt.png",
+    "title": "Novel Cover 1"
+  },
+  {
+    "id": "novel-2",
+    "image": "/assestt/novel book/dsa.png",
+    "title": "Novel Cover 2"
+  },
+  {
+    "id": "novel-3",
+    "image": "/assestt/novel book/ftr.png",
+    "title": "Novel Cover 3"
+  },
+  {
+    "id": "novel-4",
+    "image": "/assestt/novel book/gfd.png",
+    "title": "Novel Cover 4"
+  },
+  {
+    "id": "novel-5",
+    "image": "/assestt/novel book/hgf.png",
+    "title": "Novel Cover 5"
+  },
+  {
+    "id": "novel-6",
+    "image": "/assestt/novel book/juht.png",
+    "title": "Novel Cover 6"
+  },
+  {
+    "id": "novel-7",
+    "image": "/assestt/novel book/kihg.png",
+    "title": "Novel Cover 7"
+  },
+  {
+    "id": "novel-8",
+    "image": "/assestt/novel book/kiut.png",
+    "title": "Novel Cover 8"
+  },
+  {
+    "id": "novel-9",
+    "image": "/assestt/novel book/mnb.png",
+    "title": "Novel Cover 9"
+  }
+]

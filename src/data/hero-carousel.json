@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hero-1",
+    "image": "/assestt/mural design/0b4ea3615117947e616fd0ea478bcda5 (1).jpg",
+    "alt": "Design showcase 1"
+  },
+  {
+    "id": "hero-2",
+    "image": "/assestt/mural design/2aa5c56d24f8f00f988527875bf291dc.jpg",
+    "alt": "Design showcase 2"
+  },
+  {
+    "id": "hero-3",
+    "image": "/assestt/mural design/7fbd36dc17531b5554d07fc7096baf90.jpg",
+    "alt": "Design showcase 3"
+  },
+  {
+    "id": "hero-4",
+    "image": "/assestt/mural design/31d5046e79fd99f31088ea9e903089ec.jpg",
+    "alt": "Design showcase 4"
+  },
+  {
+    "id": "hero-5",
+    "image": "/assestt/mural design/886d587e38aefb81873fb2095bef3cf2.jpg",
+    "alt": "Design showcase 5"
+  },
+  {
+    "id": "hero-6",
+    "image": "/assestt/mural design/aa81ef434400b3e94e4f552c9d1e5a62_1.jpg",
+    "alt": "Design showcase 6"
+  },
+  {
+    "id": "hero-7",
+    "image": "/assestt/mural design/c5b4f1776304b38c7823fa07ce6cba9e.jpg",
+    "alt": "Design showcase 7"
+  },
+  {
+    "id": "hero-8",
+    "image": "/assestt/mural design/f261d826e87849e8ec0f3d34346161dc.jpg",
+    "alt": "Design showcase 8"
+  }
+]

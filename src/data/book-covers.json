@@ -1,0 +1,72 @@
+[
+  {
+    "id": "book-1",
+    "image": "/assestt/book cover/0a5794507b8d2c2ee80d128a0a718534.jpg",
+    "title": "Book Cover 1"
+  },
+  {
+    "id": "book-2",
+    "image": "/assestt/book cover/2b70c5fad8c268acc8770c28a31145ad.jpg",
+    "title": "Book Cover 2"
+  },
+  {
+    "id": "book-3",
+    "image": "/assestt/book cover/3f95bb4d6cb83eb645339f6ba3611aaf.jpg",
+    "title": "Book Cover 3"
+  },
+  {
+    "id": "book-4",
+    "image": "/assestt/book cover/6af837242c6056d382101b6b6cfcbe63.jpg",
+    "title": "Book Cover 4"
+  },
+  {
+    "id": "book-5",
+    "image": "/assestt/book cover/9a3b6e5fdf3fd2f18a5ba2803870875e.jpg",
+    "title": "Book Cover 5"
+  },
+  {
+    "id": "book-6",
+    "image": "/assestt/book cover/15aa207021abbdefe461f705b0139fe2.jpg",
+    "title": "Book Cover 6"
+  },
+  {
+    "id": "book-7",
+    "image": "/assestt/book cover/15b5e7ff22156a9bd5c09b0a1b192fcc.jpg",
+    "title": "Book Cover 7"
+  },
+  {
+    "id": "book-8",
+    "image": "/assestt/book cover/20fdf294e2305e38cc14487485bb73e0 (1).jpg",
+    "title": "Book Cover 8"
+  },
+  {
+    "id": "book-9",
+    "image": "/assestt/book cover/20fdf294e2305e38cc14487485bb73e0.jpg",
+    "title": "Book Cover 9"
+  },
+  {
+    "id": "book-10",
+    "image": "/assestt/book cover/30ee0de84ed1817792b30eb44b176e10.jpg",
+    "title": "Book Cover 10"
+  },
+  {
+    "id": "book-11",
+    "image": "/assestt/book cover/32b52fd9b691baec1b73a91e6fc3f7f7.jpg",
+    "title": "Book Cover 11"
+  },
+  {
+    "id": "book-12",
+    "image": "/assestt/book cover/88f9feb794f2887b087f19e8aee2b4ff.jpg",
+    "title": "Book Cover 12"
+  },
+  {
+    "id": "book-13",
+    "image": "/assestt/book cover/183daf44b2693b2e076b7b20048e8509.jpg",
+    "title": "Book Cover 13"
+  },
+  {
+    "id": "book-14",
+    "image": "/assestt/book cover/ffbb4e51a73ff07df3a8d918381a8568.jpg",
+    "title": "Book Cover 14"
+  }
+]
