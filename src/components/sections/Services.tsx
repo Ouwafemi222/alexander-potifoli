@@ -6,6 +6,7 @@ import brandIdentity from "@/data/brand-identity.json";
 import canvaTemplates from "@/data/canva-templates.json";
 import juiceLabels from "@/data/juice-labels.json";
 import magazineDesigns from "@/data/magazine-design.json";
+import marketingMaterials from "@/data/marketing-materials.json";
 import muralDesigns from "@/data/mural-design.json";
 import novelBooks from "@/data/novel-books.json";
 import powerpointSlides from "@/data/powerpoint-design.json";
@@ -20,6 +21,7 @@ import {
   EBOOK_DESIGN,
   JUICE_LABEL_DESIGN,
   MAGAZINE_DESIGN,
+  MARKETING_MATERIALS_DESIGN,
   MURAL_DESIGN,
   NOVEL_DESIGN,
   POWERPOINT_DESIGN,
@@ -152,6 +154,14 @@ const SERVICE_GALLERIES: Record<string, GalleryConfig> = {
     countLabel: "sample posts",
     ctaText: "tap to explore",
     href: SOCIAL_MEDIA_DESIGN.href,
+    showBadge: true,
+  },
+  [MARKETING_MATERIALS_DESIGN.title]: {
+    items: marketingMaterials,
+    cellAspect: "square",
+    countLabel: "sample designs",
+    ctaText: "tap to explore",
+    href: MARKETING_MATERIALS_DESIGN.href,
     showBadge: true,
   },
 };

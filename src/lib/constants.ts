@@ -358,6 +358,28 @@ export const SOCIAL_MEDIA_DESIGN = {
   ctaHeadline: "Ready for scroll-stopping social content?",
 } as const;
 
+export const MARKETING_MATERIALS_DESIGN = {
+  title: "Marketing Materials",
+  href: "/services/marketing-materials",
+  headline: "Marketing Materials That Drive Action",
+  description:
+    "Professional digital marketing materials — flyers, brochures, banners, and campaign graphics designed to promote your brand, launch products, and convert attention into results.",
+  intro:
+    "From event flyers and sale promos to product brochures and ad creatives, I design marketing assets that look polished in print and on screen, with clear messaging and strong visual hierarchy.",
+  features: [
+    "Flyers, posters, and promotional layouts",
+    "Brochures and multi-page marketing pieces",
+    "Digital ads and campaign banner sets",
+    "Consistent branding across all materials",
+    "Print-ready and web-optimized export files",
+  ],
+  cta: "Request Marketing Materials",
+  galleryTitle: "Marketing Material Samples",
+  galleryDescription: "flyers and campaign graphics from recent marketing design projects",
+  galleryItemLabel: "design",
+  ctaHeadline: "Ready for your next marketing campaign?",
+} as const;
+
 export const JUICE_LABEL_DESIGN = {
   title: "Juice Label Design",
   href: "/services/juice-label-design",
